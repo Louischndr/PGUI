@@ -28,7 +28,7 @@ public class MyApp1 extends Application {
             @Override
             public void handle(ActionEvent event) {
                 System.out.println("Hello World!");
-                System.exit(0);
+               
             }
         });
         
