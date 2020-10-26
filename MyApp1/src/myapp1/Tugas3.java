@@ -21,7 +21,7 @@ import javafx.stage.Stage;
  *
  * @author ali
  */
-public class TugasPt3 extends Application{
+public class Tugas3 extends Application{
     @Override
     public void start(Stage window){
         
